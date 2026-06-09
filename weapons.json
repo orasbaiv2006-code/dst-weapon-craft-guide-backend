@@ -1,0 +1,94 @@
+{
+  "weapons": [
+    {
+      "id": "spear",
+      "name": "Spear",
+      "category": "Melee",
+      "damage": "34",
+      "durability": "150 uses",
+      "ingredients": ["1 Flint", "1 Rope", "2 Twigs"],
+      "description": "Базова та надійна зброя ближнього бою для перших днів виживання."
+    },
+    {
+      "id": "hambat",
+      "name": "Ham Bat",
+      "category": "Melee",
+      "damage": "59.5",
+      "durability": "Spoils over time",
+      "ingredients": ["2 Meat", "2 Pig Skin", "2 Twigs"],
+      "description": "Сильна м'ясна зброя, яка поступово втрачає ефективність під час псування."
+    },
+    {
+      "id": "tentacle-spike",
+      "name": "Tentacle Spike",
+      "category": "Melee",
+      "damage": "51",
+      "durability": "100 uses",
+      "ingredients": ["Dropped by Tentacles"],
+      "description": "Потужний трофей з боліт, корисний для середнього етапу гри."
+    },
+    {
+      "id": "boomerang",
+      "name": "Boomerang",
+      "category": "Ranged",
+      "damage": "27.2",
+      "durability": "10 uses",
+      "ingredients": ["1 Boards", "1 Silk", "1 Charcoal"],
+      "description": "Дальнобійна зброя, яку потрібно вчасно ловити після повернення."
+    },
+    {
+      "id": "blow-dart",
+      "name": "Blow Dart",
+      "category": "Ranged",
+      "damage": "100",
+      "durability": "1 use",
+      "ingredients": ["2 Cut Reeds", "1 Hound's Tooth", "1 Azure Feather"],
+      "description": "Одноразовий дротик з великим уроном для небезпечних цілей."
+    },
+    {
+      "id": "fire-dart",
+      "name": "Fire Dart",
+      "category": "Ranged",
+      "damage": "0 + fire",
+      "durability": "1 use",
+      "ingredients": ["2 Cut Reeds", "1 Charcoal", "1 Crimson Feather"],
+      "description": "Підпалює ціль на відстані, але потребує обережності біля бази."
+    },
+    {
+      "id": "dark-sword",
+      "name": "Dark Sword",
+      "category": "Magic",
+      "damage": "68",
+      "durability": "100 uses",
+      "ingredients": ["5 Nightmare Fuel", "1 Living Log"],
+      "description": "Одна з найсильніших мечових зброї, але поступово знижує розсудок."
+    },
+    {
+      "id": "morning-star",
+      "name": "Morning Star",
+      "category": "Magic",
+      "damage": "43.35 / 72.25 wet",
+      "durability": "6 minutes",
+      "ingredients": ["1 Volt Goat Horn", "2 Electrical Doodads", "2 Nitre"],
+      "description": "Електрична зброя, особливо ефективна проти мокрих ворогів."
+    },
+    {
+      "id": "weather-pain",
+      "name": "Weather Pain",
+      "category": "Magic",
+      "damage": "42.5",
+      "durability": "15 uses",
+      "ingredients": ["10 Down Feathers", "1 Volt Goat Horn", "1 Gears"],
+      "description": "Створює торнадо, яке може бити ворогів на відстані."
+    },
+    {
+      "id": "gunpowder",
+      "name": "Gunpowder",
+      "category": "Explosive",
+      "damage": "200",
+      "durability": "1 use",
+      "ingredients": ["1 Rotten Egg", "1 Charcoal", "1 Nitre"],
+      "description": "Вибуховий предмет для засідок і швидкого нанесення великого урону."
+    }
+  ]
+}
